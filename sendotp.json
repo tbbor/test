@@ -1,0 +1,11 @@
+{
+    "data": {
+      "seconds": 180,
+      "confirm": true //dogrula butonu aktif
+    },
+    "isSucceed": true,
+    "message": {
+      "type": 1,  //Enum Warning, Error, Info, Success 
+      "description": " Başarı ile OTP gönderildi"
+    }
+}
